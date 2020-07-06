@@ -1,19 +1,11 @@
 ### Ahoy hoy 👋
 
-<!-- <div align="right">
-	<img
-		alt="The Simpsons. Mr Burns: We need some excitement around here"
-		height="100px"
-		style="float: right;"
-		src="https://media.giphy.com/media/l2Je2crmuKEpVHpv2/giphy.gif">
-</div> -->
-
-<img src="https://media.giphy.com/media/l2Je2crmuKEpVHpv2/giphy.gif" align="right" width="150">
+<img src="https://media.giphy.com/media/l2Je2crmuKEpVHpv2/giphy.gif"
+	align="right"
+	width="200"
+	alt="The Simpsons. Mr Burns: We need some excitement around here">
 
 It's only a matter of time before someone puts a full website in this Markdown. Until then, I'll share some links.
-
-<!-- ![](https://media.giphy.com/media/3o6MbqfZpj9CfYpdYI/giphy.gif) -->
-<!-- ![](https://media.giphy.com/media/l2Je2crmuKEpVHpv2/giphy.gif) -->
 
 ### 📝 Writings
 
