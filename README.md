@@ -2,7 +2,8 @@
 
 <img src="https://media.giphy.com/media/l2Je2crmuKEpVHpv2/giphy.gif"
 	align="right"
-	width="200"
+	width="250"
+	style="border-radius: 6px"
 	alt="The Simpsons. Mr Burns: We need some excitement around here">
 
 It's only a matter of time before someone puts a full website in this Markdown. Until I can fork their work I'll share some links.
