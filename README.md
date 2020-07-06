@@ -5,7 +5,7 @@
 	width="200"
 	alt="The Simpsons. Mr Burns: We need some excitement around here">
 
-It's only a matter of time before someone puts a full website in this Markdown. Until then, I'll share some links.
+It's only a matter of time before someone puts a full website in this Markdown. Until I can fork their work I'll share some links.
 
 ### 📝 Writings
 
