@@ -1,6 +1,8 @@
 ### Ahoy hoy 👋
 
-<img style="float: right; height: 100px" src="https://media.giphy.com/media/l2Je2crmuKEpVHpv2/giphy.gif">
+<img 
+    style="float: right; height: 100px;"
+    src="https://media.giphy.com/media/l2Je2crmuKEpVHpv2/giphy.gif">
 
 It's only a matter of time before someone puts a full website in this Markdown. Until then, I'll share some links.
 
