@@ -6,9 +6,14 @@
 	style="border-radius: 6px"
 	alt="The Simpsons. Mr Burns: We need some excitement around here">
 
-It's only a matter of time before someone puts a full website in this Markdown. Until I can fork their work I'll share some links.
+I like a smooth consistent workflow so contribute to many parts within my stack, notably:
 
-### 📝 Writings
+- **cross-platform dotfiles and shell**: my [dotfiles](https://github.com/jthegedus/dotfiles)
+- **dev tool version management**: a maintainer of [asdf-vm](https://github.com/asdf-vm/asdf) and plugins for [gcloud](https://github.com/jthegedus/asdf-gcloud) and [firebase](https://github.com/jthegedus/asdf-firebase)
+- **simple documentation**: contributor to [docsify](https://github.com/docsifyjs/docsify) and maintainer of [docsify-select](https://github.com/jthegedus/docsify-select)
+- **google cloud and firebase**: maintainer of [awesome-firebase](https://github.com/jthegedus/awesome-firebase) and [firebase-gcp-examples](https://github.com/jthegedus/firebase-gcp-examples)
+
+### 📝 Weblog
 
 - 💬 [State of Firebase (mid 2020)](https://medium.com/@jthegedus/state-of-firebase-mid-2020-d93a627cdb6c) - Official Firebase & Community Updates!
 - 💬 [GitHub & Medium with Embedly](https://medium.com/@jthegedus/github-medium-with-embedly-30d9115af585) - Nicely rendered & synced repo files?
