@@ -6,12 +6,7 @@
 	style="border-radius: 6px"
 	alt="The Simpsons. Mr Burns: We need some excitement around here">
 
-I like a smooth consistent workflow so contribute to many parts within my stack, notably:
-
-- **cross-platform dotfiles and shell**: my [dotfiles](https://github.com/jthegedus/dotfiles)
-- **dev tool version management**: a maintainer of [asdf-vm](https://github.com/asdf-vm/asdf) and plugins for [gcloud](https://github.com/jthegedus/asdf-gcloud) and [firebase](https://github.com/jthegedus/asdf-firebase)
-- **simple documentation**: contributor to [docsify](https://github.com/docsifyjs/docsify) and maintainer of [docsify-select](https://github.com/jthegedus/docsify-select)
-- **google cloud and firebase**: maintainer of [awesome-firebase](https://github.com/jthegedus/awesome-firebase) and [firebase-gcp-examples](https://github.com/jthegedus/firebase-gcp-examples)
+I like a smooth consistent workflow so contribute to many parts within my stack: dev tool management (asdf-mv), documentation site generator (docsify), google cloud and firebase lists and examples.
 
 ### 📝 Weblog
 
