@@ -10,6 +10,8 @@ I like a smooth consistent workflow so contribute to many parts within my stack:
 
 ### 📝 Weblog
 
+📚 theory · 💻 examples · 💬 comments
+ 
 - 💬 [State of Firebase (mid 2020)](https://medium.com/@jthegedus/state-of-firebase-mid-2020-d93a627cdb6c) - Official Firebase & Community Updates!
 - 💬 [GitHub & Medium with Embedly](https://medium.com/@jthegedus/github-medium-with-embedly-30d9115af585) - Nicely rendered & synced repo files?
 
