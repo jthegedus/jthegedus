@@ -16,7 +16,7 @@ I like a smooth consistent workflow so contribute to many parts within my stack:
 - 💬 [GitHub & Medium with Embedly](https://medium.com/@jthegedus/github-medium-with-embedly-30d9115af585) - Nicely rendered & synced repo files?
 
 <details>
-<summary>Other</summary>
+<summary>See more</summary>
 
 - 💬 [State of Firebase (mid 2019)](https://codeburst.io/the-state-of-firebase-mid-2019-2b002c458d70) - Cloud Next & Google I/O 2019 updates
 - 💻 [GraphQL on Cloud Functions for Firebase](https://medium.com/@jthegedus/graphql-on-cloud-functions-for-firebase-153fe7b02ea5) - Hassle-free GraphQL on FaaS
@@ -61,7 +61,7 @@ I like a smooth consistent workflow so contribute to many parts within my stack:
 </details>
 
 <details>
-<summary>📚 Reads I found particularly interesting:</summary>
+<summary><b>📚 Reads I found particularly interesting:</b></summary>
 
 - [A clean start for the web](https://macwright.com/2020/08/22/clean-starts-for-the-web.html)
 - [The Return of the 90s Web](https://mxb.dev/blog/the-return-of-the-90s-web/)
