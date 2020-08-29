@@ -70,5 +70,6 @@ I like a smooth consistent workflow so contribute to many parts within my stack:
 - [Write less code](https://svelte.dev/blog/write-less-code)
 - [Virtual DOM is pure overhead](https://svelte.dev/blog/virtual-dom-is-pure-overhead)
 - [The zen of Just Writing CSS](https://svelte.dev/blog/the-zen-of-just-writing-css)
+- [Why is printf better than echo?](https://unix.stackexchange.com/a/65819/397902)
 
 </details>
