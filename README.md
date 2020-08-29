@@ -60,16 +60,11 @@ I like a smooth consistent workflow so contribute to many parts within my stack:
 
 </details>
 
-###  📚 Reading List
-
-Reads I found particularly interesting:
+<details>
+<summary>📚 Reads I found particularly interesting:</summary>
 
 - [A clean start for the web](https://macwright.com/2020/08/22/clean-starts-for-the-web.html)
 - [The Return of the 90s Web](https://mxb.dev/blog/the-return-of-the-90s-web/)
-
-<details>
-<summary>See more</summary>
-
 - [Second-guessing the modern web](https://macwright.com/2020/05/10/spa-fatigue.html)
 - [Web browsers need to stop](https://drewdevault.com/2020/08/13/Web-browsers-need-to-stop.html)
 - [Write less code](https://svelte.dev/blog/write-less-code)
