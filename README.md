@@ -59,3 +59,19 @@ I like a smooth consistent workflow so contribute to many parts within my stack:
 - [Next.js on Cloud Functions for Firebase with Firebase Hosting](https://codeburst.io/next-js-on-cloud-functions-for-firebase-with-firebase-hosting-7911465298f2) - SSR with Clean URLs
 
 </details>
+
+###  📚 Reading List
+
+- [A clean start for the web](https://macwright.com/2020/08/22/clean-starts-for-the-web.html)
+- [The Return of the 90s Web](https://mxb.dev/blog/the-return-of-the-90s-web/)
+
+<details>
+<summary>See more</summary>
+
+- [Second-guessing the modern web](https://macwright.com/2020/05/10/spa-fatigue.html)
+- [Web browsers need to stop](https://drewdevault.com/2020/08/13/Web-browsers-need-to-stop.html)
+- [Write less code](https://svelte.dev/blog/write-less-code)
+- [Virtual DOM is pure overhead](https://svelte.dev/blog/virtual-dom-is-pure-overhead)
+- [The zen of Just Writing CSS](https://svelte.dev/blog/the-zen-of-just-writing-css)
+
+</details>
