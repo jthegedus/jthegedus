@@ -71,5 +71,7 @@ I like a smooth consistent workflow so contribute to many parts within my stack:
 - [Virtual DOM is pure overhead](https://svelte.dev/blog/virtual-dom-is-pure-overhead)
 - [The zen of Just Writing CSS](https://svelte.dev/blog/the-zen-of-just-writing-css)
 - [Why is printf better than echo?](https://unix.stackexchange.com/a/65819/397902)
+- [Friends don’t let friends Curl | Bash](https://sysdig.com/blog/friends-dont-let-friends-curl-bash/)
+- [The Let It Crash Philosophy Outside Erlang](https://stratus3d.com/blog/2020/01/20/applying-the-let-it-crash-philosophy-outside-erlang/)
 
 </details>
