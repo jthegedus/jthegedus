@@ -75,3 +75,10 @@ I like a smooth consistent workflow so contribute to many parts within my stack:
 - [The Let It Crash Philosophy Outside Erlang](https://stratus3d.com/blog/2020/01/20/applying-the-let-it-crash-philosophy-outside-erlang/)
 
 </details>
+
+<details>
+<summary>📹 Interesting videos:</summary>
+	
+- [Retrofitting parallelism into OCaml](https://youtu.be/i9wgeX7e-nc?t=6186)
+
+</details>
