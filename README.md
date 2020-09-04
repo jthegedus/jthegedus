@@ -80,5 +80,6 @@ I like a smooth consistent workflow so contribute to many parts within my stack:
 <summary>📹 Interesting videos:</summary>
 	
 - [Retrofitting parallelism into OCaml](https://youtu.be/i9wgeX7e-nc?t=6186)
+- [HTTP headers for the responsible developer](https://youtu.be/Mjqf2kkFLy8)
 
 </details>
