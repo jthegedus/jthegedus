@@ -6,7 +6,7 @@
 	style="border-radius: 6px"
 	alt="The Simpsons. Mr Burns: We need some excitement around here">
 
-I like a smooth consistent workflow so contribute to many parts within my stack: dev tool management (asdf-mv), docuentation site generator (docsify & docsify-select), google cloud (asdf-gcloud and meta-cloud-builders) and firebase (asdf-firebase).
+I like a smooth consistent workflow so contribute to many parts within my stack: dev tool management (asdf-vm), docuentation site generator (docsify & docsify-select), google cloud (asdf-gcloud and meta-cloud-builders) and firebase (asdf-firebase).
 
 ### 📝 Weblog
 
