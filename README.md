@@ -81,5 +81,6 @@ I like a smooth consistent workflow so contribute to many parts within my stack:
 	
 - [Retrofitting parallelism into OCaml](https://youtu.be/i9wgeX7e-nc?t=6186)
 - [HTTP headers for the responsible developer](https://youtu.be/Mjqf2kkFLy8)
+- [Firebase offline: What works, what doesn't, and what you need to know (Firebase Summit 2019)](https://youtu.be/XrltP8bOHT0)
 
 </details>
