@@ -84,3 +84,10 @@ I like a smooth consistent workflow so contribute to many parts within my stack:
 - [Firebase offline: What works, what doesn't, and what you need to know (Firebase Summit 2019)](https://youtu.be/XrltP8bOHT0)
 
 </details>
+
+<details>
+<summary>😂 Anecdotes</summary>
+	
+- [Money well spent??](https://userweb.cs.txstate.edu/~br02/cs1428/ShortStoryForEngineers.htm)
+
+</details>
