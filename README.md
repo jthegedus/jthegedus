@@ -63,6 +63,7 @@ I like a smooth consistent workflow so contribute to many parts within my stack:
 <details>
 <summary>📚 Interesting reads:</summary>
 
+- [How Oodle Kraken and Oodle Texture supercharge the IO system of the Sony PS5](https://cbloomrants.blogspot.com/2020/09/how-oodle-kraken-and-oodle-texture.html)
 - [A clean start for the web](https://macwright.com/2020/08/22/clean-starts-for-the-web.html)
 - [The Return of the 90s Web](https://mxb.dev/blog/the-return-of-the-90s-web/)
 - [Second-guessing the modern web](https://macwright.com/2020/05/10/spa-fatigue.html)
