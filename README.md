@@ -11,13 +11,14 @@ I like a smooth consistent workflow so contribute to many parts within my stack:
 ### 📝 Weblog
 
 📚 theory · 💻 examples · 💬 comments
- 
-- 💬 [State of Firebase (mid 2020)](https://medium.com/@jthegedus/state-of-firebase-mid-2020-d93a627cdb6c) - Official Firebase & Community Updates!
-- 💬 [GitHub & Medium with Embedly](https://medium.com/@jthegedus/github-medium-with-embedly-30d9115af585) - Nicely rendered & synced repo files?
+
+- 💬 [State of Firebase (late 2020)](https://jthegedus.medium.com/state-of-firebase-late-2020-c4a97dd1d4f) - Official Firebase & Community Updates!
 
 <details>
 <summary>More from me</summary>
 
+- 💬 [State of Firebase (mid 2020)](https://medium.com/@jthegedus/state-of-firebase-mid-2020-d93a627cdb6c) - Official Firebase & Community Updates!
+- 💬 [GitHub & Medium with Embedly](https://medium.com/@jthegedus/github-medium-with-embedly-30d9115af585) - Nicely rendered & synced repo files?
 - 💬 [State of Firebase (mid 2019)](https://codeburst.io/the-state-of-firebase-mid-2019-2b002c458d70) - Cloud Next & Google I/O 2019 updates
 - 💻 [GraphQL on Cloud Functions for Firebase](https://medium.com/@jthegedus/graphql-on-cloud-functions-for-firebase-153fe7b02ea5) - Hassle-free GraphQL on FaaS
 - 💻 [Express.js on Cloud Functions for Firebase](https://medium.com/@jthegedus/express-js-on-cloud-functions-for-firebase-f76b5506179) - Auto-scaling APIs in seconds
