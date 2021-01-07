@@ -87,7 +87,7 @@ I like a smooth consistent workflow so contribute to many parts within my stack:
 <summary>📹 Interesting videos:</summary>
 
 - [The Post JavaScript Apocalypse - Douglas Crockford](https://youtu.be/NPB34lDZj3E)
-- [Retrofitting parallelism into OCaml](https://youtu.be/i9wgeX7e-nc?t=6186)
+- [Retrofitting parallelism into OCaml](https://youtu.be/i9wgeX7e-nc?t=6186) & [Multicore OCaml -- what's coming in 2021](https://youtu.be/mel76DFerL0)
 - [HTTP headers for the responsible developer](https://youtu.be/Mjqf2kkFLy8)
 - [Firebase offline: What works, what doesn't, and what you need to know (Firebase Summit 2019)](https://youtu.be/XrltP8bOHT0)
 
@@ -97,5 +97,6 @@ I like a smooth consistent workflow so contribute to many parts within my stack:
 <summary>😂 Anecdotes</summary>
 	
 - [Money well spent??](https://userweb.cs.txstate.edu/~br02/cs1428/ShortStoryForEngineers.htm)
+- [Feed the Beast – A Cautionary Tale](https://xp123.com/articles/feed-the-beast-a-cautionary-tale/)
 
 </details>
