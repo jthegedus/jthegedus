@@ -64,6 +64,7 @@ I like a smooth consistent workflow so contribute to many parts within my stack:
 <details>
 <summary>📚 Interesting reads:</summary>
 
+- [No Hello](https://www.nohello.com/)
 - [TCR (test && commit || revert)](https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864) & [examples](https://github.com/islomar/tcr-workshop)
 - [Why your team doesn't need to use pull requests](https://infrastructure-as-code.com/book/2021/01/02/pull-requests.html)
 - [Examples of people quickly accomplishing ambitious things together](https://patrickcollison.com/fast)
