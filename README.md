@@ -64,6 +64,9 @@ I like a smooth consistent workflow so contribute to many parts within my stack:
 <details>
 <summary>📚 Interesting reads:</summary>
 
+- [TCR (test && commit || revert)](https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864) & [examples](https://github.com/islomar/tcr-workshop)
+- [Why your team doesn't need to use pull requests](https://infrastructure-as-code.com/book/2021/01/02/pull-requests.html)
+- [Examples of people quickly accomplishing ambitious things together](https://patrickcollison.com/fast)
 - [Game Engine Architecture by Jason Gregory](https://www.gameenginebook.com/) - my favourite programming book!
 - [How Oodle Kraken and Oodle Texture supercharge the IO system of the Sony PS5](https://cbloomrants.blogspot.com/2020/09/how-oodle-kraken-and-oodle-texture.html)
 - [A clean start for the web](https://macwright.com/2020/08/22/clean-starts-for-the-web.html)
@@ -81,7 +84,8 @@ I like a smooth consistent workflow so contribute to many parts within my stack:
 
 <details>
 <summary>📹 Interesting videos:</summary>
-	
+
+- [The Post JavaScript Apocalypse - Douglas Crockford](https://youtu.be/NPB34lDZj3E)
 - [Retrofitting parallelism into OCaml](https://youtu.be/i9wgeX7e-nc?t=6186)
 - [HTTP headers for the responsible developer](https://youtu.be/Mjqf2kkFLy8)
 - [Firebase offline: What works, what doesn't, and what you need to know (Firebase Summit 2019)](https://youtu.be/XrltP8bOHT0)
