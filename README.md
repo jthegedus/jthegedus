@@ -75,6 +75,7 @@ I like a smooth consistent workflow so contribute to many parts within my stack:
 - [The Return of the 90s Web](https://mxb.dev/blog/the-return-of-the-90s-web/)
 - [Second-guessing the modern web](https://macwright.com/2020/05/10/spa-fatigue.html)
 - [Web browsers need to stop](https://drewdevault.com/2020/08/13/Web-browsers-need-to-stop.html)
+- [The truth about Svelte](https://gist.github.com/Rich-Harris/0f910048478c2a6505d1c32185b61934)
 - [Write less code](https://svelte.dev/blog/write-less-code)
 - [Virtual DOM is pure overhead](https://svelte.dev/blog/virtual-dom-is-pure-overhead)
 - [The zen of Just Writing CSS](https://svelte.dev/blog/the-zen-of-just-writing-css)
