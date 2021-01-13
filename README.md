@@ -64,6 +64,8 @@ I like a smooth consistent workflow so contribute to many parts within my stack:
 <details>
 <summary>📚 Interesting reads:</summary>
 
+- [Why I moved from React to Svelte and why others will follow](https://www.mikenikles.com/blog/why-i-moved-from-react-to-svelte-and-why-others-will-follow) - I like Svelte and find these stories useful to share with sceptics.
+- [Fibonacci Goals](https://www.swyx.io/fibonacci-goals/)
 - [Lessons From Building a Static Site Generator (Svelte w Elder.js)](https://nicholasreese.com/lessons-from-building-a-static-site-generator/)
 - [No Hello](https://www.nohello.com/)
 - [TCR (test && commit || revert)](https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864) & [examples](https://github.com/islomar/tcr-workshop)
