@@ -1,10 +1,11 @@
 ### Ahoy hoy 👋
 
-<img src="https://media.giphy.com/media/l2Je2crmuKEpVHpv2/giphy.gif"
+<!-- <img src="https://media.giphy.com/media/l2Je2crmuKEpVHpv2/giphy.gif"
 	align="right"
 	width="250"
 	style="border-radius: 6px"
 	alt="The Simpsons. Mr Burns: We need some excitement around here">
+-->
 
 I like a smooth consistent workflow so contribute to many parts within my stack: dev tool management (asdf-vm), docuentation site generator (docsify & docsify-select), google cloud (asdf-gcloud and meta-cloud-builders) and firebase (asdf-firebase).
 
