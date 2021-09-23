@@ -91,6 +91,7 @@ I like a smooth consistent workflow so contribute to many parts within my stack:
 <details>
 <summary>📹 Interesting videos:</summary>
 
+- [Rust: A Language for the Next 40 Years - Carol Nichols - 2019](https://www.youtube.com/watch?v=A3AdN7U24iU)
 - [10 Things I Regret About Node.js - Ryan Dahl - JSConf EU 2018](https://www.youtube.com/watch?v=M3BM9TB-8yA)
 - [The Post JavaScript Apocalypse - Douglas Crockford](https://youtu.be/NPB34lDZj3E)
 - [Retrofitting parallelism into OCaml](https://youtu.be/i9wgeX7e-nc?t=6186) & [Multicore OCaml -- what's coming in 2021](https://youtu.be/mel76DFerL0)
